@@ -1,3 +1,5 @@
 Orange
 Apple
 Strawberry
+Frog
+Lizard
