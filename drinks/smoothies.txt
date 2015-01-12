@@ -3,3 +3,5 @@ Apple
 Strawberry
 Frog
 Lizard
+Chicken
+Beef
